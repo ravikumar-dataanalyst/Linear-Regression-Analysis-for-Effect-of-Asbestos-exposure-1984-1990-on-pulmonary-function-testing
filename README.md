@@ -1,6 +1,6 @@
-# Linear-Regression-Analysis-for-Effect-of-Asbestos-exposure-1984-1990-on-pulmonary-function-testing
+# Linear-Regression-Analysis-for-Effect-of-Asbestos-exposure-on-pulmonary-function-testing
 
-Linear regression analysis in the context of the effect of asbestos exposure on pulmonary function testing involves examining the relationship between asbestos exposure (in this case, during the years 1984-1990) and pulmonary function test results. Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables.
+Linear regression analysis in the context of the effect of asbestos exposure on pulmonary function testing involves examining the relationship between asbestos exposure and pulmonary function test results. Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables.
 
 Here's how the analysis might be conducted:
 
